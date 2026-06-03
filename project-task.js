@@ -28,6 +28,8 @@ This activity reinforces:
 ---
 */
 
+console.log("testing");
+
 // ============================================
 // ❌ Original Code (Before Refactoring)
 // ============================================
