@@ -29,6 +29,7 @@ This activity reinforces:
 */
 
 console.log("testing");
+console.log("using vs code source control tab");
 
 // ============================================
 // ❌ Original Code (Before Refactoring)
